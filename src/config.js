@@ -1,5 +1,6 @@
 const config = {
     clientId: '1333515335999164518',
+    token: process.env.DISCORD_TOKEN,
     broadcast: {
         enabled: true,
         channel: '1351928008935473193'
