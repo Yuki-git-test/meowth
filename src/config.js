@@ -1,5 +1,5 @@
 const config = {
-    clientId: '1333515335999164518',
+    clientId: '1469868445570175037',
     token: process.env.DISCORD_TOKEN,
     broadcast: {
         enabled: true,
