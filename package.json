@@ -5,7 +5,8 @@
   "main": "src/main.js",
   "type": "module",
   "scripts": {
-    "refreshcommands": "node src/register-commands.js"
+    "refreshcommands": "node src/register-commands.js",
+    "start": "node src/main.js"
   },
   "keywords": [],
   "author": "",
